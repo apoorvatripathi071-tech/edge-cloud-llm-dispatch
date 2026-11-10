@@ -122,4 +122,4 @@ MIT, for the original contribution in this repository (`org/paper2/`, all Python
 
 ## Citing
 
-See `CITATION.cff`. If you use this code, please cite both the repository (via its Zenodo DOI, once available) and the accompanying paper.
+See `CITATION.cff`. If you use this code, please cite both the repository (Zenodo DOI: [10.5281/zenodo.24096779](https://doi.org/10.5281/zenodo.24096779)) and the accompanying paper.

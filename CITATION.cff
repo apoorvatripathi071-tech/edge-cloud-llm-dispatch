@@ -9,10 +9,8 @@ authors:
   - family-names: Tripathi
     given-names: Apoorva
     affiliation: Independent Researcher
-# --- Fill in after you push to GitHub and mint a Zenodo DOI (see README "Archival" section) ---
 repository-code: "https://github.com/apoorvatripathi071-tech/edge-cloud-llm-dispatch"
-doi: "10.5281/zenodo.XXXXXXX"
-# ---------------------------------------------------------------------------------------------
+doi: "10.5281/zenodo.24096779"
 preferred-citation:
   type: article
   title: "When Does Structure Beat Information? A Factorial Study of Edge-Cloud Request Dispatch for LLM Inference"
