@@ -1,0 +1,39 @@
+# Raw trace data (1.8 GB, public but not ours to redistribute -- download
+# instructions are in the top-level README and in the paper's Section 11).
+/data/
+
+# Simulation output (1.5 GB, machine-generated, fully regenerable from the
+# commands in the README / paper Section 11).
+/results/
+
+# iFogSim2 build artifacts and IDE junk
+iFogSim/bin/
+iFogSim/out/
+iFogSim/output/
+iFogSim/.idea/
+iFogSim/.classpath
+iFogSim/.settings/
+iFogSim/.project
+iFogSim/*.iml
+iFogSim/.DS_Store
+iFogSim/sources.txt
+
+# iFogSim2's own bundled results/ folder ships pre-existing example output
+# (.xlsx/.ods files from its stock demo scenarios) unrelated to this paper.
+iFogSim/results/
+
+# Internal planning/process docs -- not part of the code or reproducibility
+# chain (that's all in README.md and the paper's own Section 11). Kept
+# locally, not published.
+/DESIGN.md
+/PLAN.md
+/IMPLEMENTATION_NOTES.md
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db

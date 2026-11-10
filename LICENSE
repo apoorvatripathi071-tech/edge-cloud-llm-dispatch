@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 Apoorva Tripathi
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+This license covers the original contribution in this repository: the
+`iFogSim/src/org/paper2/` package, the `src/*.py` analysis and reproduction
+scripts, and this repository's own documentation.
+
+The base simulator under `iFogSim/` (everything outside `org/paper2/`) is a
+fork of iFogSim2 (github.com/Cloudslab/iFogSim, commit 5f68d39) and remains
+under its own MIT license, reproduced unchanged at `iFogSim/LICENSE.txt`
+(Copyright (c) 2025 The Cloud Computing and Distributed Systems (CLOUDS)
+Laboratory). Two of its files were modified for this project
+(`src/org/fog/entities/ControllerComponent.java`,
+`src/org/fog/entities/MicroserviceFogDevice.java`) and one file was added
+in that same base package (`src/org/fog/entities/ServiceDiscovery.java`);
+these carry the base project's original license, consistent with how the
+base project itself is licensed.

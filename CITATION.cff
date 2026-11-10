@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both this repository and the accompanying paper below."
+title: "Edge-Cloud Request Dispatch for LLM Inference: Simulation and Analysis Code"
+type: software
+version: 1.0.0
+date-released: 2026-08-18
+license: MIT
+authors:
+  - family-names: Tripathi
+    given-names: Apoorva
+    affiliation: Independent Researcher
+# --- Fill in after you push to GitHub and mint a Zenodo DOI (see README "Archival" section) ---
+repository-code: "https://github.com/apoorvatripathi071-tech/edge-cloud-llm-dispatch"
+doi: "10.5281/zenodo.XXXXXXX"
+# ---------------------------------------------------------------------------------------------
+preferred-citation:
+  type: article
+  title: "When Does Structure Beat Information? A Factorial Study of Edge-Cloud Request Dispatch for LLM Inference"
+  authors:
+    - family-names: Tripathi
+      given-names: Apoorva
+      affiliation: Independent Researcher
+  # Fill in once the manuscript is accepted/published (journal, volume, pages, DOI).
+  year: 2026
